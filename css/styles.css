@@ -21,7 +21,7 @@ body {
 }
 
 header {
-	background: #043867;
+	background: #9ac9f4;
 	color: white;
 	font-size: 1.5rem;
 }
@@ -68,7 +68,7 @@ a:hover, a:focus, a:active {
 
 /* Header */
 .branding {
-	background: #043867;
+	background: #9ac9f4;
 	color: white;
 	text-align:center;
 }
@@ -98,7 +98,7 @@ a:hover, a:focus, a:active {
 #main-nav {
 	background-color: #043867;
 	font-family: Georgia, serif;
-	font-size: 1.2em;
+	font-size: 0.8em;
 }
 
 #main-nav li:hover {
